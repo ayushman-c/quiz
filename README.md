@@ -5,6 +5,7 @@ A simple **on-chain quiz system** built with Solidity, designed to verify answer
 ---
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3362184d-c1ef-439f-bd49-e95c64253373" />
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/408c5413-2977-42d6-aebd-ab2a1287ff4b" />
 
 ## 📘 Project Description
 
